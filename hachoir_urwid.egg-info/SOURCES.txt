@@ -1,0 +1,14 @@
+AUTHORS
+COPYING
+README
+hachoir-urwid
+setup.py
+hachoir_urwid/__init__.py
+hachoir_urwid/urwid_ui.py
+hachoir_urwid/version.py
+hachoir_urwid.egg-info/PKG-INFO
+hachoir_urwid.egg-info/SOURCES.txt
+hachoir_urwid.egg-info/dependency_links.txt
+hachoir_urwid.egg-info/requires.txt
+hachoir_urwid.egg-info/top_level.txt
+hachoir_urwid.egg-info/zip-safe
